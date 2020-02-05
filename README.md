@@ -1,2 +1,8 @@
 # Python-Cryptography-from-scratch
-I will be uploading my own codes for some popular cryptographic algorithms, to help those who need to learn cryptography from scratch.. 
+My own implementations for some popular cryptography algorithms 
+## Author: Christeen T Jose
+---
+### Contents include:
+
+* [AES (Advanced Encryption Standard)](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/AES.py)
+* [DES (Data Encryption Standard)](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/DES.py)
