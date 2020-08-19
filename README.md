@@ -14,6 +14,6 @@ My own implementations for some popular cryptography algorithms
 * [RSA Decryption](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/RSA_Decryption.py)
 * [HILL CIPHER](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/HILL%20CIPHER.py)
 * [Man in the Middle Attack](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/Man-in-the-middle-attack.py)
-* [MixColumns](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/MixColumns.py)
+* [Rijndael MixColumns](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/MixColumns.py)
 * [PLAYFAIR CIPHER](https://github.com/ChristeenTJose/Cryptography-from-scratch-python/blob/master/PLAYFAIR%20CIPHER.py)
 
